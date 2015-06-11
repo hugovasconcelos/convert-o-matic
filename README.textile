@@ -5,7 +5,7 @@ Built with "HTML5 Boilerplate":http://html5boilerplate.com/
 With lovely gradient buttons from "Web Designer Wall":http://webdesignerwall.com/tutorials/css3-gradient-buttons
 And placeholder icons and images from "Glyphish":http://glyphish.com/
 
-Convert-o-matic is a landing page template inspired by KissMetrics' article "Anatomy of a Perfect Landing Page." And by "inspired", I mean a nearly one-for-one translation of the best practices described there into a customizable HTML5 landing page template.
+Convert-o-matic is a landing page responsive template inspired by KissMetrics' article "Anatomy of a Perfect Landing Page." And by "inspired", I mean a nearly one-for-one translation of the best practices described there into a customizable HTML5 landing page template.
 
 h2. Get Started Now for FREE
 
